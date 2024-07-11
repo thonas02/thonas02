@@ -1,0 +1,7 @@
+- 👋 Hey! I'm Tomás.
+- 📍 Portugal.
+- 🌱 I'm currently learning C++;
+- ⚙️ I'm a self-learning rookie programmer!
+- 🎮 I love videogames. My favourite is: The Last of Us Part 1
+- 👨‍💻 If you ever come accross my work, please feel free to drop feedback!
+- 🐈 Cats > Dogs.
