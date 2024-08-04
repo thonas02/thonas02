@@ -5,3 +5,4 @@
 - 🎮 I love videogames. My favourite is: The Last of Us Part 1
 - 👨‍💻 If you ever come accross my work, please feel free to drop feedback!
 - 🐈 Cats > Dogs.
+- 🐫 Camelcase >
